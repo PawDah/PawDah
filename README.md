@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Developer from Poland 🇵🇱</h3>
 Programming is my hobby which I have been progressively developing. I'm currently studying programming at a university :book: and constantly expanding my knowledge.
 I am ambitious, hard-working and patient.<br/>
-- 🌱 My latest projects: 
+- 🌱 My latest projects: <br/>
 - https://pawdah.github.io/Forest-Website/index.html <br/>
 - https://pawdah-exerciseapp.netlify.app
 <h3 align="left">Connect with me: dahlkepawelcontact@gmail.com</h3>
