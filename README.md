@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Paweł Dahlke</h1>
 <h3 align="center">I'm a Developer from Poland 🇵🇱</h3>
 Programming is my hobby which I have been progressively developing. I'm currently studying programming at a university :book: and constantly expanding my knowledge.
-I am ambitious, hard-working and patient.
+I am ambitious, hard-working and patient.<br/>
 - 🌱 My latest projects: 
 - https://pawdah.github.io/Forest-Website/index.html 
 - https://pawdah-exerciseapp.netlify.app
