@@ -5,6 +5,7 @@ Programming is my hobby which I have been progressively developing. I'm currentl
 I am ambitious, hard-working and patient.<br/>
 Currently learning Laravel :) <br/> 
 - 🌱 My latest projects: <br/>
+- https://github.com/PawDah/shop <br/>
 - https://github.com/PawDah/Lista-TO-DO <br/>
 - https://pawdah.github.io/Forest-Website/index.html <br/>
 - https://pawdah-exerciseapp.netlify.app
