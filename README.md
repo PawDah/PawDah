@@ -7,7 +7,7 @@ Currently learning creating Test :) <br/>
 - 🌱 Latest commercial projects: <br/>
 - https://ezezwolenie.pl/ - Admin System for ordering fishing permits (Symfony,Twig)<br/>
 - https://app.ezezwolenie.pl/?fishingfarm=ncaEiRrRdu8NWps7GZwzK9inbvm58D8OUc6vo3EP - Ordering system [ezezwolenie.pl] (React)  <br/>
-- https://mojaryba.pl/ - Fishing portal with CMS (in progress)<br/>
+- https://mojaryba.pl/ - Fishing portal with CMS (Laravel,Blade) [In Progress]<br/>
 <h3 align="left">Connect with me: dahlkepawelcontact@gmail.com</h3>
 <p align="left">
 </p>
