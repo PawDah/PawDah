@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Paweł Dahlke</h1>
-<h3 align="center">I'm a Developer from Poland 🇵🇱</h3>
-Programming is my hobby which I have been progressively developing. I'm currently studying programming at a university :book: and constantly expanding my knowledge.
-I am ambitious, hard-working and patient.<br/>
-Currently learning creating Test :) <br/> 
+<h3 align="center">I'm a Developer and Computer Science Engineer from Poland 🇵🇱 with experience in cybersecurity</h3>
+Programming is my hobby which I have been progressively developing. I hold an engineering degree in Computer Science, specializing in software development and modern technologies.<br/>
+I'm not just a developer from Poland — I also have professional experience in the field of cybersecurity.<br/>
+I am ambitious, hard-working, and patient.<br/>
 - 🌱 Latest commercial projects: <br/>
 - https://ezezwolenie.pl/ - Admin System for ordering fishing permits (Symfony,Twig)<br/>
 - https://app.ezezwolenie.pl/?fishingfarm=ncaEiRrRdu8NWps7GZwzK9inbvm58D8OUc6vo3EP - Ordering system [ezezwolenie.pl] (React)  <br/>
